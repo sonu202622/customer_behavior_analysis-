@@ -13,6 +13,8 @@ The project covers:
 * Power BI dashboard creation
 * Business reporting and presentation generation
 
+  ![Alt Text](https://github.com/sonu202622/customer_behavior_analysis-/blob/main/image.png)
+
 ---
 
 ## 📂 Dataset
